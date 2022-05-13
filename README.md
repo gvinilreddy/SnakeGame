@@ -1,2 +1,4 @@
 # SnakeGame
-Replica of 1980'2 popular game 
+Replica of 1980's popular game 
+
+ https://gvinilreddy.github.io/SnakeGame/
